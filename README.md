@@ -181,7 +181,12 @@ Response:
 
 ## TODO
 
--
+- [ ] Add user authentication (JWT or OAuth)
+- [ ] Optimize face embedding extraction for batch uploads
+- [ ] Add more logging and monitoring
+- [ ] Support image preview endpoints
+- [ ] Write frontend integration sample
+
 
 ---
 
