@@ -1,3 +1,10 @@
+# main.py# -------------------------------------------------------------------------------------
+# This is the main FastAPI application for face recognition and management.
+# It provides endpoints to compare faces, upload reference images, delete references,
+# and list all stored images in a Google Cloud Storage bucket. 
+# The application uses the InsightFace library for face detection and embedding extraction.
+# It supports multiple image formats and handles errors gracefully. 
+# This is designed by the Boston University CS 391 summer course team. Xiaorui Wang(bella918@bu.edu), Emily Yang (eyang4@bu.edu), and Li Zhixin (lzhx@bu.edu)
 # -------------------------------------------------------------------------------------
 from fastapi import FastAPI, UploadFile, File, Form
 from fastapi.middleware.cors import CORSMiddleware
