@@ -1,0 +1,17 @@
+# fastapi
+# uvicorn
+# insightface
+# onnxruntime
+# opencv-python-headless
+# numpy
+# python-multipart
+
+
+fastapi
+uvicorn
+onnxruntime
+python-multipart
+numpy
+opencv-python-headless
+insightface
+google-cloud-storage
