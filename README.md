@@ -6,6 +6,11 @@ A web service for face verification using InsightFace, FastAPI, and Google Cloud
 Supports multi-format reference images and secure student attendance with facial recognition.
 
 ---
+GCP deployment link
+
+https://face-service-143797183460.us-east1.run.app/
+
+---
 
 ## Features
 

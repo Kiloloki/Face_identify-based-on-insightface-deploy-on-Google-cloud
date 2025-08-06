@@ -5,6 +5,7 @@
 # The application uses the InsightFace library for face detection and embedding extraction.
 # It supports multiple image formats and handles errors gracefully. 
 # This is designed by the Boston University CS 391 summer course team. Xiaorui Wang(bella918@bu.edu), Emily Yang (eyang4@bu.edu), and Li Zhixin (lzhx@bu.edu)
+# GCP deployment link: https://face-service-143797183460.us-east1.run.app/
 # -------------------------------------------------------------------------------------
 from fastapi import FastAPI, UploadFile, File, Form
 from fastapi.middleware.cors import CORSMiddleware
