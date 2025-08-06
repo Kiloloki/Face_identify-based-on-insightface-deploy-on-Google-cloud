@@ -8,7 +8,8 @@ Supports multi-format reference images and secure student attendance with facial
 ---
 GCP deployment link
 
-https://face-service-143797183460.us-east1.run.app/
+https://face-service-143797183460.us-east1.run.app/ ---> you can test it in Postman or any other test app. 
+Please do not open it directly in brower, it cannot work.
 
 ---
 
